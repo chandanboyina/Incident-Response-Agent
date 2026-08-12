@@ -276,6 +276,11 @@ The system recalls the previous database incident because the symptoms look simi
 Current Evidence → Redis connection refused → Cache unavailable
                  → Investigate Redis dependency
 ```
+![Image Description](IncidentAgent0.jpeg)
+
+![Image Description](IncidentAgent1.jpeg)
+
+![Image Description](IncidentAgent2.jpeg)
 
 This demonstrates the key idea:
 
