@@ -671,6 +671,4 @@ git push -u origin feature/inc-003
 
 ---
 
-## 📄 License
 
-This project is currently intended for hackathon and educational purposes.
